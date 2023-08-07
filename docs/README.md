@@ -1,7 +1,7 @@
 # Hello World!
 
 Inline-style: 
-![alt text](https://github.com/azadwasan/azadwasan.github.io/blob/main/docs/assets/images/Untitled.png "Logo Title Text 1")
+![alt text](azadwasan/docs/assets/images/EasyNNTest.png "Logo Title Text 1")
 
 
 # A first-level heading
